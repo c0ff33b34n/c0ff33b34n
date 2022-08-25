@@ -1,6 +1,6 @@
 ### Hi folks 👋, Myself SEJOYNER
 
 WhoAmI:
-Cyber Security Analyst
-PenTester
-Developer
+<p>Cyber Security Analyst</p>
+<p>PenTester</p>
+<p>Developer</p>
