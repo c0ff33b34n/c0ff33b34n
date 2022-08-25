@@ -1,4 +1,4 @@
-# Hi folks 👋, Myself SEJOYNER
+# Hi folks 👋, Myself SEJOYNER(c0ff33b34n)
 
 ### WhoAmI:
 <p>Cyber Security Analyst</p>
