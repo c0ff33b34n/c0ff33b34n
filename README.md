@@ -1,6 +1,7 @@
 # Hi folks 👋, Myself SEJOYNER (c0ff33b34n)
 
 ### WhoAmI:
+<p>InfoSec Engineer</p>
 <p>Cyber Security Analyst</p>
 <p>PenTester</p>
 <p>Developer</p>
