@@ -8,7 +8,7 @@
 
 ### Skills:
 <p>Hacking, Penetration Testing</p>
-<p>Web, Mobile, Network VAPT</p>
+<p>Web, Cloud, Mobile, Network VAPT</p>
 <p>BurpSuite, Postman</p>
 <p>CTFs</P>
 <p>HTML, CSS, JS</p>
