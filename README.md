@@ -22,8 +22,9 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 [website]: https://c0ff33b34n.github.io/
 [twitter]: https://twitter.com/c0ff33834n
 [instagram]: https://www.instagram.com/__sejoy_ner__
-[linkedin]: https://www.linkedin.com/in/sejoyner-joy
+[linkedin]: https://www.linkedin.com/in/sejoyner-joy-00b448193
