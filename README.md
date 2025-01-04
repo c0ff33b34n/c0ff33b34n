@@ -21,5 +21,5 @@
 
 [website]: https://c0ff33b34n.github.io/
 [twitter]: https://twitter.com/c0ff33834n
-[instagram]: https://www.instagram.com/__sejoy_ner__
+[instagram]: https://www.instagram.com/sejoy.ner
 [linkedin]: https://www.linkedin.com/in/sejoyner
